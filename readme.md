@@ -8,4 +8,12 @@
 <ul> ng e2e  --> Constrói e atende um app Angular e, em seguida, executa testes de ponta a ponta.</ul>
 
 <b>PASSOS: </b><br>
-1- 
+<ol>
+    <li><b>Configurando o ambiente: </b>
+    <ul>Para instalar o Angular CLI, abra uma janela de terminal e execute o seguinte comando:  npm install -g @angular/cli </ul>
+        <ol>
+            <li>
+        </ol>
+    </li>
+    <li> </li>
+</ol>
