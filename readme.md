@@ -14,12 +14,20 @@
         <ol>
             <li>Crie um espaço de trabalho e um app inicial:
                 <ol>
-                    <li>Execute o comando CLI <b>ng new</b> e forneça o nome <b>nome</b>, exemplo: <b> ng new nome </b> </li>
+                    <li>Execute o comando CLI <b>ng new</b> e forneça o nome <b>my-app</b>, exemplo: <b> ng new my-app </b> </li>
                     <li> O <b>ng new</b> comando solicita informações sobre os recursos a serem incluídos no aplicativo inicial. Aceite os padrões pressionando a tecla Enter ou Return. </li>
                 </ol>
-            
              </li>
         </ol>
     </li>
-    <li> </li>
+    <li><b>Execute o app: </b>
+        <ol>
+            <li>Navegue até a pasta do espaço de trabalho, como <b>my-app</b>. </li>
+            <li> Execute o seguinte comando: <br>
+                    <ul>cd my-app</ul>
+                    <ul>ng serve --open </ul>
+        </ol>
+    
+    </li>
+
 </ol>
