@@ -7,5 +7,5 @@
 <ul> ng test  --> Executa testes de unidade em um determinado projeto. </ul>
 <ul> ng e2e  --> Constrói e atende um app Angular e, em seguida, executa testes de ponta a ponta.</ul>
 
-<b>PASSOS: </b>
+<b>PASSOS: </b><br>
 1- 
