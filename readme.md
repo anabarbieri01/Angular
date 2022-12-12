@@ -27,7 +27,5 @@
                     <ul>cd my-app</ul>
                     <ul>ng serve --open </ul>
         </ol>
-    
     </li>
-
 </ol>
